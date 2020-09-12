@@ -17,10 +17,10 @@ def create_table():
 create_table()
 
 #consumer key, consumer secret, access token, access secret.
-ckey="KRg1PGkupLuflA6EysIDgupb8"
-csecret="5MFvpebqUC42gatOYmNblsCQhkM5ffXhlyEoQabwfonSYiVbhY"
-atoken="3228520368-K9712Rhgff9Adx6mpXt8EwJhI7MElZpCWFWGnQF"
-asecret="N0gid1j6hnIXIPUybhYjtoa9gSyQSoqHsiPJaXD2TRfTs"
+ckey=""     #please add your own by creating a developer account on twitter
+csecret=""
+atoken=""
+asecret=""
 
 class listener(StreamListener):
 

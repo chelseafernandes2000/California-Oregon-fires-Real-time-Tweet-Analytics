@@ -38,3 +38,5 @@ Please find inside realtimetweeteranalysis:
 1. tweet_streamer.py: Streams live tweets as per keywords & stores in sqlite3
 2. analytics.py: Retrives live data, performs analytics and plots using dash
 3. OregonFiretwitter: sqlite3 database
+
+Output video: https://drive.google.com/file/d/1xJPPPV3zNn7JVlIe_9YpbwV3MrAqRXt9/view?usp=drivesdk

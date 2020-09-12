@@ -25,10 +25,10 @@ filtered out special characters, emoji's, links & urls. Then I used Punkt Senten
 Finally, I visualized all of this using dash, 
 
 1. Live Scatter Plot of no. of positive, negative & neutral tweets wrt to time (every 15 mins) <br>
-![Img]()
+![Img](https://github.com/chelseafernandes2000/California-Oregon-fires-Real-time-Tweet-Analytics/blob/master/Realtimetweeteranalysis/Output%20Snapshots/snap_1.JPG)
 
 2. Live Bar Plot - Topic Trackking (Most Popular words) <br>
-![Img]()
+![Img](https://github.com/chelseafernandes2000/California-Oregon-fires-Real-time-Tweet-Analytics/blob/master/Realtimetweeteranalysis/Output%20Snapshots/snap_2.JPG)
 
 3. Live Pie plot of aggregate sentiment analysis <br>
-![Img]()
+![Img](https://github.com/chelseafernandes2000/California-Oregon-fires-Real-time-Tweet-Analytics/blob/master/Realtimetweeteranalysis/Output%20Snapshots/snap_3.JPG)

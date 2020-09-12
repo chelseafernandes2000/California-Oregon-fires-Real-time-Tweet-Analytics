@@ -32,3 +32,9 @@ Finally, I visualized all of this using dash,
 
 3. Live Pie plot of aggregate sentiment analysis <br>
 ![Img](https://github.com/chelseafernandes2000/California-Oregon-fires-Real-time-Tweet-Analytics/blob/master/Realtimetweeteranalysis/Output%20Snapshots/snap_3.JPG)
+
+
+Please find inside realtimetweeteranalysis:
+1. tweet_streamer.py: Streams live tweets as per keywords & stores in sqlite3
+2. analytics.py: Retrives live data, performs analytics and plots using dash
+3. OregonFiretwitter: sqlite3 database
